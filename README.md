@@ -17,7 +17,8 @@ Although it may seem very plain, I am hoping I will be able to come back and pro
 
 The following is a screenshot of the portfolio
 
-![porfolio demo](./assets/Screen Shot 2021-11-17 at 10.13.44 PM.png)
+![porfolio-demo](./assets/images/Screen Shot 2021-11-17 at 10.13.44 PM.png)
+not sure why that link isnt working
 
 ## Usage
 The usage of the site is mainly for the student to display the projects that they have completed.
