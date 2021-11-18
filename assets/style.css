@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+header {
+    background-color: lemonchiffon;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    
+}
+
+header li {
+  display: inline;
+  margin: 0 8px;
+ 
+  
+}
+
+header ul { 
+    align-self: flex-end;
+
+}
+
+header a {
+    text-decoration: none;
+    
+}
+
+section {
+    margin: 50px;
+}
+
+div {
+    margin: 25px;
+}
+
+footer {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 25px;
+}
