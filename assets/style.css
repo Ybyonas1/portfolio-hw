@@ -1,3 +1,8 @@
+:root{
+    margin: 0;
+    
+}
+
 html, * {
     margin: 0;
     box-sizing: border-box;
@@ -47,21 +52,24 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-aside {
-    width: 40%;
-}
-
-section {
-    width: 90%;
-    margin: 50px;
+.connect {
+    margin-left: 30px;
+    background-color: azure;
+    color: black;
+    width: 200px;
+text-align: center;
+text-decoration: none;
 }
 
 aside img {
-    padding: 25px;
+    padding: 10px;
+    width: 100%;
+    height: auto;
 }
 
 div {
     margin: 25px;
+    border-radius: 15px;
     border: 5px lightslategrey solid;
 /* HOW DO I FIX THIS ISSUE!!!  */
     padding: 20px;
@@ -101,11 +109,11 @@ div h2 {
 }
 
 .poster {
-    background-image: url("./images/Coming\ Soon.jpeg");
+    background-image: url("./images/tpg.png");
 }
 
 .secposter {
-    background-image: url("./images/Coming\ Soon.jpeg");
+    background-image: url("./images/movie_critix.png");
 }
 
 #contlinks {
@@ -127,7 +135,24 @@ div h2 {
 }
 
 footer {
+    position: relative;
+   clear: both;
+   margin-top: -200px;
+   height: 80px;
+    width: 100%;
     background-color: lemonchiffon;
     text-align: center;
     padding: 25px;
+}
+
+.main-col {
+    background-color: red;
+    float: right;
+    width: 69%;
+}
+
+.side-col {
+    background-color: green;
+    float:left;
+    width: 30%;
 }
