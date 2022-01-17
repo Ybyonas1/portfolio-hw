@@ -1,4 +1,5 @@
-# Portfolio Homework
+# 1st Updated Portfolio
+by: Yonas Woldemichael
 
 ## Table of Contents
 - [Description](#description)
@@ -7,18 +8,16 @@
 - [Usage](#usage)
 
 ## Description
-In this assignment we were instructed to create a portfolio for ourselves. One, so that we can get a feel on how to utilize the topics that we've learned and discussed about in class, and two, to see first hand what a personalized porfolio may look like.
+In this assignment we were instructed to update our portfolio. I know this may seem like a rough copy, but I do plan on making continuous edits to improve the porfolio of course.
 
 ## Installation
-Nothing major was installed except a few images that I decided to put into the portfolio
+Nothing major was installed except a few images that I added to the portfolio.
 
 ## Visuals
-Although it may seem very plain, I am hoping I will be able to come back and provide a couple more tweaks to the portfolio
+Although it may seem very plain, I am hoping I will be able to come back and provide a more tweaks to the portfolio.
 
-The following is a screenshot of the portfolio
-
-![porfolio-demo](./assets/images/Screen Shot 2021-11-17 at 10.13.44 PM.png)
-not sure why that link isnt working
+The following is a screenshot of the portfolio.
+![My first port-rough copy..](./assets/images/firstport.png)
 
 ## Usage
 The usage of the site is mainly for the student to display the projects that they have completed.
