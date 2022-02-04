@@ -17,7 +17,7 @@ Nothing major was installed except a few images that I added to the portfolio.
 The layout of my portfolio has a very simple design.
 
 The following is a screenshot of the portfolio.
-![My first port-rough copy..](./assets/images/port.png)
+![My first port-rough copy..](./assets/images/newport.png)
 
 ## Usage
 The usage of the site is mainly for the student to display the projects that they have completed, while also being able to exercise their CSS and HTML skills.
