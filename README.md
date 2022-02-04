@@ -17,7 +17,7 @@ Nothing major was installed except a few images that I added to the portfolio.
 Although it may seem very plain, I am hoping I will be able to come back and provide a more tweaks to the portfolio.
 
 The following is a screenshot of the portfolio.
-![My first port-rough copy..](./assets/images/firstport.png)
+![My first port-rough copy..](./assets/images/port.png)
 
 ## Usage
 The usage of the site is mainly for the student to display the projects that they have completed.
